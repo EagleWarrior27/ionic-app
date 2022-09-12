@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mstapp",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

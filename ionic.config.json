@@ -1,0 +1,7 @@
+{
+  "name": "mstapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
